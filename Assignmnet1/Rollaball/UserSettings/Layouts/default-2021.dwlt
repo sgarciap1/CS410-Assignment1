@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 916.6667
     height: 961.3334
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 152
+  controlID: 39
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 281.33337
     height: 911.3333
-  m_MinSize: {x: 300, y: 150}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 301, y: 171}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 15}
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 17
+  controlID: 46
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 18
+  controlID: 47
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -388,15 +388,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Template
   m_LastFoldersGridSize: 92
-  m_LastProjectPath: C:\Users\Salva\Downloads\SPRING 2023\University of Oregon -
-    CS 410\Week 1\Rollaball
+  m_LastProjectPath: C:\Users\Salva\OneDrive\Desktop\CS410---Assignment\Assignmnet1\Rollaball
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c06a0000
-    m_LastClickedID: 27328
-    m_ExpandedIDs: 00000000a66a000000ca9a3b
+    m_SelectedIDs: b86a0000
+    m_LastClickedID: 27320
+    m_ExpandedIDs: 000000009e6a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -424,7 +423,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a66a0000
+    m_ExpandedIDs: 000000009e6a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -556,7 +555,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c46a0000
+      m_SelectedIDs: bc6a0000
       m_LastClickedID: 0
       m_ExpandedIDs: 30fbffff
       m_RenameOverlay:
@@ -893,7 +892,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.0069535305, y: 0.98454255, z: -0.17033115, w: 0.040192563}
     speed: 2
-    m_Value: {x: 0.0069535286, y: 0.9845423, z: -0.1703311, w: 0.040192552}
+    m_Value: {x: 0.0069535305, y: 0.9845426, z: -0.17033115, w: 0.040192563}
   m_Size:
     m_Target: 14.486821
     speed: 2
